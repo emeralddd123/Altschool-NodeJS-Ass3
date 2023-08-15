@@ -6,14 +6,20 @@ Add another feature such that when I navigate to “{random}.html” it should r
 
 
 2. Using the framework, build an api server to manage inventory information. Api should be able to
-Create item
-Get all items
-Get one item
-Update item
-Delete item
 
-Item should have the following attributes
-Name
-Price
-Size: small(s), medium(m) or large(l)
-Id
+<ol>
+  <li>Create item </li>
+  <li>Get all items </li>
+  <li>Get one item </li>
+  <li>Update item </li>
+  <li>Delete item </li>
+</ol>
+
+ Item should have the following attributes:
+<ul>
+  <li>Name </li>
+  <li>Price </li>
+  <li>Size: small(s), medium(m) or large(l) </li>
+  <li>Description </li>
+  <li>Id </li>
+</ul>
